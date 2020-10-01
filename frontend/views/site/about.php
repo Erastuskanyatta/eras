@@ -18,10 +18,10 @@ $this->params['breadcrumbs'][] = $this->title;
 				<ul class="rslides" id="slider">
 					<li>
 						<div class="agile-w3l-ab-img">
-							<img src="web/image/9.png" class="img-responsive" alt="Homey Designs">
+							<img src="as/image/12.png"  class="img-responsive"alt="Homey Designs">
 						</div>
 					</li>
-					<li>
+				<!--	<li>
 						<div class="agile-w3l-ab-img">
 							<img src="web/image/.png" class="img-responsive" alt="Homey Designs">
 						</div>
@@ -40,7 +40,7 @@ $this->params['breadcrumbs'][] = $this->title;
 						<div class="agile-w3l-ab-img">
 							<img src="web/image/7.jpg" class="img-responsive" alt="Homey Designs">
 						</div>
-					</li>
+					</li> -->
 				</ul>
 			</div>
 			<div class="col-md-5 w3ls-agile-left">

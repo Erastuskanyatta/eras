@@ -155,6 +155,17 @@ class SiteController extends Controller
         return $this->render('about');
     }
 
+      /**
+     * Displays graph_charts.php page.
+     *
+     * @return mixed
+     */
+    public function actionGraph_charts()
+    {
+        return $this->render('graph_charts.php');
+    }
+
+
     /**
      * Signs user up.
      *

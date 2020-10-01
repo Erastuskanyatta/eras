@@ -8,8 +8,8 @@ $this->title = 'Classic Bio';
 	<div class="banner-agi">
 <div class="banner-main">
 			<div class="container">	
-				<div class="col-md-5 banner-left">
-					<img src="as/image/12.png" alt=""> 
+				<div class="col-md-5 banner-right">
+					<img src="as/image/12.png"  class="img-responsive"  alt="img-responsive"> 
 				</div>
 				<div class="col-md-7 banner-text">
 					<p>Welcome</p>
@@ -37,10 +37,10 @@ $this->title = 'Classic Bio';
 				<ul class="rslides" id="slider">
 					<li>
 						<div class="agile-w3l-ab-img">
-							<img src="as/image/9.png" class="img-responsive" alt="Homey Designs">
+							<img src="as/image/9.png" class="img-responsive" alt="" style: bottom-down : 30%;> 
 						</div>
 					</li>
-					<li>
+				<!--	<li>
 						<div class="agile-w3l-ab-img">
 							<img src="web/image/.png" class="img-responsive" alt="Homey Designs">
 						</div>
@@ -59,7 +59,7 @@ $this->title = 'Classic Bio';
 						<div class="agile-w3l-ab-img">
 							<img src="web/image/7.jpg" class="img-responsive" alt="Homey Designs">
 						</div>
-					</li>
+					</li> -->
 				</ul>
 			</div>
 			<div class="col-md-5 w3ls-agile-left">
@@ -104,11 +104,11 @@ $this->title = 'Classic Bio';
 							<h1>PHP</h1>
 							<p>I believe to be 80% good in php</p>
 						
-					</div>
+					  </div>
 					
-					</div>
-				</div>
-				<div class="col-md-6 skills -left">
+					 </div>
+			       </div>
+			     	<div class="col-md-6 skills -left">
 					<div class="skill-grid">
 						<h1 style="color: blue">Extra Skills</h1>
 						  <div class="skills-info wow fadeInRight animated" data-wow-delay=".5s"> 
@@ -178,7 +178,7 @@ $this->title = 'Classic Bio';
 </div>
 <!-- //services --> 
 <!-- start interests --> 
-<div class="intra-w3l">
+<div class="intra-w3">
 	<div class="container">
 		<h3 class="w3l-title">Interests</h3>
 		<div>
@@ -329,7 +329,7 @@ $this->title = 'Classic Bio';
 <!-- introduce -->
 <div class="confi-w3l">
 	<div class="container">
-		<h3>Hello....</h3>
+		<h3  >Hello....</h3>
 		<p>I feel much honoured introducing myself to u,,,wel Am Erastus MUriithi and Currently am a student at Meru University</p>
 		<p>I believe that two heads are better than one and thats why it would be a great honour if u join me and code together as a team</p>
 	</div>

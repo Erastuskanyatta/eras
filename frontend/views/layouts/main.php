@@ -46,7 +46,7 @@ AppAsset::register($this);
 						<a style="padding-right: 20px" href="<?= Yii::$app->urlManager->createUrl(['site/servicesview'])?>">Services</a>
 						<a style="padding-right: 20px" href="<?= Yii::$app->urlManager->createUrl(['tel/create'])?>">Interest</a>
 						<a style="padding-right: 20px" href="<?= Yii::$app->urlManager->createUrl(['tel/create'])?>">Education</a>
-						<a style="padding-right: 20px"  href="<?= Yii::$app->urlManager->createUrl(['tel/create'])?>">Project</a>
+						<a style="padding-right: 20px"  href="<?= Yii::$app->urlManager->createUrl(['projects/create'])?>">Project</a>
 						<a style="padding-right: 20px"  href="<?= Yii::$app->urlManager->createUrl(['site/contact'])?>">Contact Me</a>
 						<a style="padding-right: 20px"  href="<?= Yii::$app->urlManager->createUrl(['site/signup'])?>">Sighup</a>
 						<a style="padding-right: 20px"  href="<?= Yii::$app->urlManager->createUrl(['site/login'])?>">Login</a>

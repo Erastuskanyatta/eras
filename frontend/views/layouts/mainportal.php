@@ -53,19 +53,34 @@ PortalAsset::register($this);
                         <a href="index.html"><i class="fa fa-th-large"></i> <span class="nav-label">Dashboards</span> <span class="fa arrow"></span></a>
                         <ul class="nav nav-second-level">
                             <li class="active"><a href="index.html">Dashboard v.1</a></li>
-                            <li><a href="dashboard_2.html">Dashboard v.2</a></li>
+                           <!-- <li><a href="dashboard_2.html">Dashboard v.2</a></li>
                             <li><a href="dashboard_3.html">Dashboard v.3</a></li>
                             <li><a href="dashboard_4_1.html">Dashboard v.4</a></li>
-                            <li><a href="dashboard_5.html">Dashboard v.5 </a></li>
+                            <li><a href="dashboard_5.html">Dashboard v.5 </a></li> -->
                         </ul>
                     </li>
+
+                      <li class="active">
+                      <a href="index.html"><i class="fa-pied-piper"></i> <span class="nav-label">Projects</span> <span class="fa arrow"></span></a>
+                        <ul class="nav nav-second-level">
+                           <li clas="active" style: color:blue; >Project 1</li>
+                             <li><a style="padding-right: 20px"  href="<?= Yii::$app->urlManager->createUrl(['projects/create'])?>">Add  Project</a></li>
+                            <li><a style="padding-right: 20px"  href="<?= Yii::$app->urlManager->createUrl(['projects/index'])?>">Manage Project</a> </li> 
+                        </ul>
+                      </li>
+
+
+
+
                     <li>
                         <a href="layouts.html"><i class="fa fa-diamond"></i> <span class="nav-label">Layouts</span></a>
                     </li>
                     <li>
                         <a href="#"><i class="fa fa-bar-chart-o"></i> <span class="nav-label">Graphs</span><span class="fa arrow"></span></a>
                         <ul class="nav nav-second-level collapse">
-                            <li><a href="graph_flot.html">Flot Charts</a></li>
+                     <!--<li><a style="padding-right: 20px"  href="<?= Yii::$app->urlManager->createUrl(['site/graph_chartjs.php'])?>">Add  Project</a></li> -->
+                        <li><a style="padding-right: 20px"  href="<?= Yii::$app->urlManager->createUrl(['team/create'])?>">team</a></li>
+                            <li><a href="graph_chartjs.php">Flot Charts</a></li>
                             <li><a href="graph_morris.html">Morris.js Charts</a></li>
                             <li><a href="graph_rickshaw.html">Rickshaw Charts</a></li>
                             <li><a href="graph_chartjs.html">Chart.js</a></li>
