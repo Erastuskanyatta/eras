@@ -73,7 +73,7 @@ $this->title = 'Classic Bio';
 				</div>
 				<div class="w3ls-agile-left-info">
 					<h4>Address</h4>
-					<p> 30, INchiru Maua</p>
+					<p> 30, Inchiru Maua</p>
 				</div>
 				<div class="w3ls-agile-left-info">
 					<h4>Phone Number</h4>
@@ -178,7 +178,7 @@ $this->title = 'Classic Bio';
 </div>
 <!-- //services --> 
 <!-- start interests --> 
-<div class="intra-w3">
+<div class="intra-w3l">
 	<div class="container">
 		<h3 class="w3l-title">Interests</h3>
 		<div>
