@@ -44,6 +44,921 @@ $this->params['breadcrumbs'][] = $this->title;
 </head>
 
 <body>
+    <section1 id="team" class="" >
+  <div class="container" style="padding-left: 420px">
+    <h5 class="section-title h1" style="padding-left: 40px">OUR TEAM </h5>
+    <div class="heading"> 
+      <!-- Heading -->
+             <div class="panel-body">
+             <div class="row">
+             <div class=" col-md-12">
+             <div class="flip-card" >
+          <div class="flip-card-inner">
+        <div class="flip-card-front">
+            <div class="card-body text-center">
+                 <h4 class="card-title" style="color: blue"><b>Erastus Muriithi</b></h4>
+                 <img class=" img-circle" style="height:200px; width: 200px"  src="<?= Yii::$app->getUrlManager()->getBaseUrl()."/as/image/12.png"?>" alt="image description" width="40" height="40" style="border: top: 134px;">    <br>        
+            </div>
+            <h4 class="card-title" style="color: blue"><b>Erastus <br> CEO $ director </b></h4> <br>
+            <h4 class="card-title" style="color:#fff"><a href="mailto:allan.eras.co.ke">erastusmuriithi45@sudo.co.ke</a></h4>
+          
+       </div>
+        <div class="flip-card-back">
+      <strong>
+                                <h4  style="color: white;>Info about Erastus</h4>
+                                <p  style="color: blue;>
+                                    Iam Erastus Muriithi<br> A software Engineer with 10 years experience. <br> Iam the Mananger oa sudo coders 
+                                </p> </strong>
+                                <div>
+                                    <span>Status of current project:</span>
+                                    <div class="stat-percent">48%</div>
+                                    <div class="progress progress-mini">
+                                        <div style="width: 48%;" class="progress-bar"></div>
+                                    </div>
+                                </div>
+                                <div class="row  m-t-sm">
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">PROJECTS</div>
+                                        12
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">RANKING</div>
+                                        1st
+                                    </div> <br>
+                                    <h4 class="card-title" style="color:#fff"><a href="erastusmuriithi146@gmail.com">erastusmuriithi146@sudo.co.ke</a></h4>
+          
+                                    
+                                </div> 
+
+    </div>
+  </div>
+</div>
+            </div>
+                      
+
+             </div>
+      </div>
+    </div>
+  </div> <br>
+
+    <div class="service-block col-md-4">
+             <div class="flip-card">
+           <div class="flip-card-inner">
+        <div class="flip-card-front">
+        <div class="card-body text-center">
+                 <h4 class="card-title" style="color: blue"><b>Caroline Twish</b></h4>
+                 <img class=" img-circle" style="height:200px; width: 200px"  src="<?= Yii::$app->getUrlManager()->getBaseUrl()."/as/image/1.jpg"?>" alt="image description" width="40" height="40" style="border: top: 134px;">    <br>        
+            </div>
+            <h4 class="card-title" style="color: blue"><b>Twish <br>  Marketer </b></h4> <br>
+            <h4 class="card-title" style="color:#fff"><a href="mailto:allan.eras.co.ke">twishgatwili@sudo.co.ke</a></h4>
+       </div>
+        <div class="flip-card-back">
+       <strong>
+                                <h4  style="color: white;>Info about Twish</h4>
+                                <p  style="color: blue;>
+                                    
+                                    Twish is our market,she is very talented and also very hardworking. <br> She is one of the best girl in theSudo coders
+                                
+                                </p> </strong>
+                                <div>
+                                    <span>Status of current project:</span>
+                                    <div class="stat-percent">80%</div>
+                                    <div class="progress progress-mini">
+                                        <div style="width: 80%;" class="progress-bar"></div>
+                                    </div>
+                                </div>
+                                <div class="row  m-t-sm">
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">PROJECTS</div>
+                                        25
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">RANKING</div>
+                                        3st
+                                    </div> <br>
+                                     <h4 class="card-title" style="color:#fff"><a href="mailto:allan.eras.co.ke">twishgatwili@sudo.co.ke</a></h4>
+                                    
+                                </div>
+    </div>
+  </div>
+</div>
+
+      </div>
+        <div class="service-block col-md-4">
+             <div class="flip-card">
+           <div class="flip-card-inner">
+        <div class="flip-card-front">
+        <div class="card-body text-center">
+                 <h4 class="card-title" style="color: blue"><b>Geoffery Mwangi</b></h4>
+                 <img class=" img-circle" style="height:200px; width: 200px"  src="<?= Yii::$app->getUrlManager()->getBaseUrl()."/as/image/14.jpg"?>" alt="image description" width="40" height="40" style="border: top: 134px;">    <br>        
+            </div>
+            <h4 class="card-title" style="color: blue"><b>Geoffery <br> Cyber Security expert </b></h4> <br>
+            <h4 class="card-title" style="color:#fff"><a href="mailto:allan.eras.co.ke">mwangijeff@sudo.co.ke</a></h4>
+       </div>
+        <div class="flip-card-back">
+       <strong>
+                                <h4  style="color: white;>Info about Geoffery Mwangi</h4>
+                                <p  style="color: blue;>
+                                    
+                                    With Jeff we all feel secure from black hackers as strong firewalls have been well enhanced to protect us from being hacked <br>"Other Hackers call himm Hacker"
+                                
+                                </p> </strong>
+                                <div>
+                                    <span>Status of current project:</span>
+                                    <div class="stat-percent">66%</div>
+                                    <div class="progress progress-mini">
+                                        <div style="width: 66%;" class="progress-bar"></div>
+                                    </div>
+                                </div>
+                                <div class="row  m-t-sm">
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">PROJECTS</div>
+                                        20
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">RANKING</div>
+                                        4st
+                                    </div> <br>
+                                     <h4 class="card-title" style="color:#fff"><a href="mailto:allan.eras.co.ke">mwangijeff@sudo.co.ke</a></h4>
+                                    
+                                </div>
+
+    </div>
+  </div>
+</div>
+
+
+      </div>
+       <div class="service-block col-md-4">
+             <div class="flip-card">
+           <div class="flip-card-inner">
+        <div class="flip-card-front">
+        <div class="card-body text-center">
+                 <h4 class="card-title" style="color: blue"><b>Geoffery Mungai</b></h4>
+                 <img class=" img-circle" style="height:200px; width: 200px"  src="<?= Yii::$app->getUrlManager()->getBaseUrl()."/as/image/jeff.jpg"?>" alt="image description" width="40" height="40" style="border: top: 134px;">    <br>        
+            </div>
+            <h4 class="card-title" style="color: blue"><b>Geoffery <br> Web designer </b></h4> <br>
+            <h4 class="card-title" style="color:#fff"><a href="mailto:allan.eras.co.ke">jeffmungai@sudo.co.ke</a></h4>
+       </div>
+        <div class="flip-card-back">
+       <strong>
+                                <h4  style="color: white;>Info about Geoffery Mungai</h4>
+                                <p  style="color: blue;>
+                                    
+                                    Jeff Mungai is oue web developer,he is a genious when it come to web desighning..<br> He is a great Puncher
+                                
+                                
+                                </p> </strong>
+                                <div>
+                                    <span>Status of current project:</span>
+                                    <div class="stat-percent">66%</div>
+                                    <div class="progress progress-mini">
+                                        <div style="width: 66%;" class="progress-bar"></div>
+                                    </div>
+                                </div>
+                                <div class="row  m-t-sm">
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">PROJECTS</div>
+                                        20
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">RANKING</div>
+                                        4st
+                                    </div> <br>
+                                     <h4 class="card-title" style="color:#fff"><a href="mailto:allan.eras.co.ke">mwangijeff@sudo.co.ke</a></h4>
+                                    
+                                </div>
+
+             </div>
+
+
+
+</section 1>
+
+
+
+
+
+<section1 id="team" class="page-section section appear clearfix secPad">
+  <div class="container">
+  <div class="heading"> 
+      <!-- Heading -->
+       
+         <!--  <h3 class="sec-title text-center">Team</h3>
+        
+             <div class="panel-body">
+             <div class="row">
+             <div class="service-block col-xs-12 col-sm-6 col-md-4">
+             <div class="flip-card">
+        
+
+    </div> -->
+  </div>
+</div>
+           <!-- </div>
+            <div class="service-block col-lg-6">
+             <div class="flip-card">
+           <div class="flip-card-inner">
+        <div class="flip-card-front">
+        <div class="card-body text-center">
+                 <h4 class="card-title" style="color: blue"><b>Caroline Twish</b></h4>
+                 <img class=" img-circle" style="height:200px; width: 200px"  src="<?= Yii::$app->getUrlManager()->getBaseUrl()."/as/image/1.jpg"?>" alt="image description" width="40" height="40" style="border: top: 134px;">    <br>        
+            </div>
+            <h4 class="card-title" style="color: blue"><b>Twish <br>  Marketer </b></h4> <br>
+            <h4 class="card-title" style="color:#fff"><a href="mailto:allan.eras.co.ke">twishgatwili@sudo.co.ke</a></h4>
+       </div>
+        <div class="flip-card-back">
+       <strong>
+                                <h4  style="color: white;>Info about Twish</h4>
+                                <p  style="color: blue;>
+                                    
+                                    Twish is our market,she is very talented and also very hardworking. <br> She is one of the best girl in theSudo coders
+                                
+                                </p> </strong>
+                                <div>
+                                    <span>Status of current project:</span>
+                                    <div class="stat-percent">80%</div>
+                                    <div class="progress progress-mini">
+                                        <div style="width: 80%;" class="progress-bar"></div>
+                                    </div>
+                                </div>
+                                <div class="row  m-t-sm">
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">PROJECTS</div>
+                                        25
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">RANKING</div>
+                                        3st
+                                    </div> <br>
+                                     <h4 class="card-title" style="color:#fff"><a href="mailto:allan.eras.co.ke">twishgatwili@sudo.co.ke</a></h4>
+                                    
+                                </div>
+    </div>
+  </div>
+</div>
+
+      </div>
+        <div class="service-block col-md-6">
+             <div class="flip-card">
+           <div class="flip-card-inner">
+        <div class="flip-card-front">
+        <div class="card-body text-center">
+                 <h4 class="card-title" style="color: blue"><b>Geoffery Mwangi</b></h4>
+                 <img class=" img-circle" style="height:200px; width: 200px"  src="<?= Yii::$app->getUrlManager()->getBaseUrl()."/as/image/14.jpg"?>" alt="image description" width="40" height="40" style="border: top: 134px;">    <br>        
+            </div>
+            <h4 class="card-title" style="color: blue"><b>Geoffery <br> Cyber Security expert </b></h4> <br>
+            <h4 class="card-title" style="color:#fff"><a href="mailto:allan.eras.co.ke">mwangijeff@sudo.co.ke</a></h4>
+       </div>
+        <div class="flip-card-back">
+       <strong>
+                                <h4  style="color: white;>Info about Geoffery Mwangi</h4>
+                                <p  style="color: blue;>
+                                    
+                                    With Jeff we all feel secure from black hackers as strong firewalls have been well enhanced to protect us from being hacked <br>"Other Hackers call himm Hacker"
+                                
+                                </p> </strong>
+                                <div>
+                                    <span>Status of current project:</span>
+                                    <div class="stat-percent">66%</div>
+                                    <div class="progress progress-mini">
+                                        <div style="width: 66%;" class="progress-bar"></div>
+                                    </div>
+                                </div>
+                                <div class="row  m-t-sm">
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">PROJECTS</div>
+                                        20
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">RANKING</div>
+                                        4st
+                                    </div> <br>
+                                     <h4 class="card-title" style="color:#fff"><a href="mailto:allan.eras.co.ke">mwangijeff@sudo.co.ke</a></h4>
+                                    
+                                </div>
+
+    </div>
+  </div>
+</div>
+
+
+      </div>
+       <div class="service-block col-md-4">
+             <div class="flip-card">
+           <div class="flip-card-inner">
+        <div class="flip-card-front">
+        <div class="card-body text-center">
+                 <h4 class="card-title" style="color: blue"><b>Geoffery Mungai</b></h4>
+                 <img class=" img-circle" style="height:200px; width: 200px"  src="<?= Yii::$app->getUrlManager()->getBaseUrl()."/as/image/jeff.jpg"?>" alt="image description" width="40" height="40" style="border: top: 134px;">    <br>        
+            </div>
+            <h4 class="card-title" style="color: blue"><b>Geoffery <br> Web designer </b></h4> <br>
+            <h4 class="card-title" style="color:#fff"><a href="mailto:allan.eras.co.ke">jeffmungai@sudo.co.ke</a></h4>
+       </div>
+        <div class="flip-card-back">
+       <strong>
+                                <h4  style="color: white;>Info about Geoffery Mungai</h4>
+                                <p  style="color: blue;>
+                                    
+                                    Jeff Mungai is oue web developer,he is a genious when it come to web desighning..<br> He is a great Puncher
+                                
+                                
+                                </p> </strong>
+                                <div>
+                                    <span>Status of current project:</span>
+                                    <div class="stat-percent">66%</div>
+                                    <div class="progress progress-mini">
+                                        <div style="width: 66%;" class="progress-bar"></div>
+                                    </div>
+                                </div>
+                                <div class="row  m-t-sm">
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">PROJECTS</div>
+                                        20
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">RANKING</div>
+                                        4st
+                                    </div> <br>
+                                     <h4 class="card-title" style="color:#fff"><a href="mailto:allan.eras.co.ke">mwangijeff@sudo.co.ke</a></h4>
+                                    
+                                </div>
+
+             </div>
+      </div>
+    </div>
+  </div>
+</section 1> -->
+
+
+<style>
+    .flip-card{
+    -webkit-transition: 1s;
+    -webkit-transform-style: preserve-3d;
+    -ms-transition: 1s;
+    -moz-transition: 1s;
+    -moz-transform: perspective(1000px);
+    -moz-transform-style: preserve-3d;
+    -ms-transform-style: preserve-3d;
+    transition: 1s;
+    transform-style: preserve-3d;
+    position: relative;
+}
+#team {
+    background: #eee !important;
+}               
+    
+
+</style>
+
+
+
+
+
+<!--
+
+    <div class="service-block col-md-4">
+             <div class="flip-card">
+           <div class="flip-card-inner">
+        <div class="flip-card-front">
+                 Erastus Muriithi
+
+             <img class="img-circle" src="<?= Yii::$app->getUrlManager()->getBaseUrl()."/as/image/12.png"?>" alt="image description" style="width:300px;height:300px;"> 
+       </div>
+        <div class="flip-card-back">
+      <strong>
+                                <h4  style="color: white;>Info about Erastus</h4>
+                                <p  style="color: blue;>
+                                    Erastus Muriithi is an is an IT expert.<br> He has been working with me for more than 5 years now meaning he has got a 5 years experience..
+                                </p> </strong>
+                                <div>
+                                    <span>Status of current project:</span>
+                                    <div class="stat-percent">48%</div>
+                                    <div class="progress progress-mini">
+                                        <div style="width: 48%;" class="progress-bar"></div>
+                                    </div>
+                                </div>
+                                <div class="row  m-t-sm">
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">PROJECTS</div>
+                                        12
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">RANKING</div>
+                                        4th
+                                    </div>
+                                    <div class="col-sm-4 text-right">
+                                        <div class="font-bold">BUDGET</div>
+                                        $200,913 <i class="fa fa-level-up text-navy"></i>
+                                    </div>
+                                </div>
+    </div>
+  </div>
+</div>
+
+      </div>
+
+
+
+   <!--  <div class="row wrapper border-bottom white-bg page-heading">
+                <div class="col-lg-10">
+                    <h2>Teams board</h2>
+                    <ol class="breadcrumb">
+                        <li>
+                            <a href="index.php"  style="color: blue;>Home</a>
+                        </li>
+                        <li>
+                            <a  style="color: blue;>App views</a>
+                        </li>
+                        <li class="active" style="color: blue;">
+                            <strong>Teams board</strong>
+                        </li>
+                    </ol>
+                </div>
+                <div class="col-lg-2">
+
+                </div>
+            </div>
+
+            <div class="wrapper wrapper-content animated fadeInRight">
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="ibox">
+                            <div class="ibox-title">
+                               <!-- <span class="label label-primary pull-right">NEW</span>
+                                <h5>IT- Consultance--Erastus</h5> -->
+                        <!--    </div>
+                            <div class="ibox-content">
+                                <div class="team-members">
+                                  <!--  <div class="chip">
+                                       <a href="#"><img alt="member"  alt="image description"   src="/eras/as/image/12.png"></a>
+                                    </div>
+                                        
+                                       <img src="/eras/as/image/12.png" class="img-circle" alt=" image description " style="width:60px;height:60px;"> -->
+                                        
+                                  <!--     <img class="img-circle" src="<?= Yii::$app->getUrlManager()->getBaseUrl()."/as/image/12.png"?>" alt="image description" width="40" height="40">     -->   
+    
+                                    <!--   <img class="img-circle" src="<?= Yii::$app->getUrlManager()->getBaseUrl()."/as/image/12.png"?>" alt="image description" width="40" height="40">        
+                                       <img class="img-circle" src="<?= Yii::$app->getUrlManager()->getBaseUrl()."/as/image/12.png"?>" alt="image description" width="40" height="40">        
+                                       <img class="img-circle" src="<?= Yii::$app->getUrlManager()->getBaseUrl()."/as/image/12.png"?>" alt="image description" width="40" height="40">    -->    
+                                </div>
+
+
+   <!-- <div class="service-block col-md-4">
+             <div class="flip-card">
+           <div class="flip-card-inner">
+        <div class="flip-card-front">
+                 Erastus Muriithi
+
+             <img class="img-circle" src="<?= Yii::$app->getUrlManager()->getBaseUrl()."/as/image/12.png"?>" alt="image description" style="width:300px;height:300px;"> 
+       </div>
+        <div class="flip-card-back">
+      <strong>
+                                <h4  style="color: white;>Info about Erastus</h4>
+                                <p  style="color: blue;>
+                                    Erastus Muriithi is an is an IT expert.<br> He has been working with me for more than 5 years now meaning he has got a 5 years experience..
+                                </p> </strong>
+                                <div>
+                                    <span>Status of current project:</span>
+                                    <div class="stat-percent">48%</div>
+                                    <div class="progress progress-mini">
+                                        <div style="width: 48%;" class="progress-bar"></div>
+                                    </div>
+                                </div>
+                                <div class="row  m-t-sm">
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">PROJECTS</div>
+                                        12
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">RANKING</div>
+                                        4th
+                                    </div>
+                                    <div class="col-sm-4 text-right">
+                                        <div class="font-bold">BUDGET</div>
+                                        $200,913 <i class="fa fa-level-up text-navy"></i>
+                                    </div>
+                                </div>
+    </div>
+  </div>
+</div>
+
+      </div> <br> <br>
+
+
+
+    <div class="service-block col-md-4">
+             <div class="flip-card">
+           <div class="flip-card-inner">
+        <div class="flip-card-front">
+                 Erastus Muriithi
+
+             <img class="img-circle" src="<?= Yii::$app->getUrlManager()->getBaseUrl()."/as/image/12.png"?>" alt="image description" style="width:300px;height:300px;"> 
+       </div>
+        <div class="flip-card-back">
+      <strong>
+                                <h4  style="color: white;>Info about Erastus</h4>
+                                <p  style="color: blue;>
+                                    Erastus Muriithi is an is an IT expert.<br> He has been working with me for more than 5 years now meaning he has got a 5 years experience..
+                                </p> </strong>
+                                <div>
+                                    <span>Status of current project:</span>
+                                    <div class="stat-percent">48%</div>
+                                    <div class="progress progress-mini">
+                                        <div style="width: 48%;" class="progress-bar"></div>
+                                    </div>
+                                </div>
+                                <div class="row  m-t-sm">
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">PROJECTS</div>
+                                        12
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">RANKING</div>
+                                        4th
+                                    </div>
+                                    <div class="col-sm-4 text-right">
+                                        <div class="font-bold">BUDGET</div>
+                                        $200,913 <i class="fa fa-level-up text-navy"></i>
+                                    </div>
+                                </div>
+    </div>
+  </div>
+</div>
+
+      </div> <br> <br>   
+                               
+                                
+                               
+                                
+
+
+
+                             <!--   <div class="row  m-t-sm">
+                                    
+                                    
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="ibox">
+                            <div class="ibox-title">
+                                <h5 style="color: blue;">Hacker-Jeff Mwangi</h5>
+                            </div>
+                            <div class="ibox-content">
+                                <div class="team-members">
+                                <img class="img-circle" src="<?= Yii::$app->getUrlManager()->getBaseUrl()."/as/image/15.JPG"?>" alt="image description" width="40" height="40">        
+                                 <!--   <a href="#"><img alt="member" class="img-circle" src="img/a5.jpg"></a>
+                                    <a href="#"><img alt="member" class="img-circle" src="img/a6.jpg"></a>
+                                    <a href="#"><img alt="member" class="img-circle" src="img/a8.jpg"></a>
+                                    <a href="#"><img alt="member" class="img-circle" src="img/a7.jpg"></a>
+                                -->
+                             <!--   </div>
+                                <h4 style="color: blue;">Info about Jeff</h4>
+                                <p>
+                                    Jeff Mwangi is one of our best hacker,he always make sure that our hosted website are save from intruders.
+                                </p>
+                                <div>
+                                    <span>Status of current project:</span>
+                                    <div class="stat-percent">32%</div>
+                                    <div class="progress progress-mini">
+                                        <div style="width: 32%;" class="progress-bar"></div>
+                                    </div>
+                                </div>
+                                <div class="row  m-t-sm">
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">PROJECTS</div>
+                                        24
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">RANKING</div>
+                                        3th
+                                    </div>
+                                    <div class="col-sm-4 text-right">
+                                        <div class="font-bold">BUDGET</div>
+                                        $190,325 <i class="fa fa-level-up text-navy"></i>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="ibox">
+                           <!-- <div class="ibox-title">
+                                <h5>IT-07 - Finance Team</h5>
+                            </div>
+                            <div class="ibox-content">
+                                <div class="team-members">
+                                    <a href="#"><img alt="member" class="img-circle" src="img/a4.jpg"></a>
+                                    <a href="#"><img alt="member" class="img-circle" src="img/a8.jpg"></a>
+                                    <a href="#"><img alt="member" class="img-circle" src="img/a7.jpg"></a>
+                                </div>
+                                <h4>Info about Design Team</h4>
+                                <p>
+                                    Uncover many web sites still in their infancy. Various versions have evolved over
+                                    the years, sometimes by accident, sometimes on purpose (injected humour and the
+                                    like).
+                                </p>
+                                <div>
+                                    <span>Status of current project:</span>
+                                    <div class="stat-percent">73%</div>
+                                    <div class="progress progress-mini">
+                                        <div style="width: 73%;" class="progress-bar"></div>
+                                    </div>
+                                </div>
+                                <div class="row  m-t-sm">
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">PROJECTS</div>
+                                        11
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">RANKING</div>
+                                        6th
+                                    </div>
+                                    <div class="col-sm-4 text-right">
+                                        <div class="font-bold">BUDGET</div>
+                                        $560,105 <i class="fa fa-level-up text-navy"></i>
+                                    </div>
+                                </div>
+
+                    <!--        </div> -->
+                        </div>
+                    </div> 
+                   <!-- <div class="col-lg-4">
+                        <div class="ibox">
+                            <div class="ibox-title">
+                                <h5>Marketer-Carol Twish</h5>
+                            </div>
+                            <div class="ibox-content">
+                                <div class="team-members">
+                                    <img class="img-circle" src="<?= Yii::$app->getUrlManager()->getBaseUrl()."/as/image/1.jpg"?>" alt="image description" width="40" height="40">
+
+                                 <!--   <a href="#"><img alt="member" class="img-circle" src="img/a8.jpg"></a>
+                                    <a href="#"><img alt="member" class="img-circle" src="img/a4.jpg"></a>
+                                    <a href="#"><img alt="member" class="img-circle" src="img/a1.jpg"></a>
+                                -->
+                               <!-- </div>
+                                <h4>Info about Carol</h4>
+                                <p>
+                                    Twish is our market,she is very talented and also very hardworking. <br> She is one of the best girl in theSudo coders
+                                </p>
+                                <div>
+                                    <span>Project Marketed:</span>
+                                    <div class="stat-percent">61%</div>
+                                    <div class="progress progress-mini">
+                                        <div style="width: 61%;" class="progress-bar"></div>
+                                    </div>
+                                </div>
+                                <div class="row  m-t-sm">
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">PROJECTS</div>
+                                        43
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">RANKING</div>
+                                        1th
+                                    </div>
+                                    <div class="col-sm-4 text-right">
+                                        <div class="font-bold">BUDGET</div>
+                                        $705,913 <i class="fa fa-level-up text-navy"></i>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="ibox">
+                            <div class="ibox-title">
+                                <span class="label label-warning pull-right">DEADLINE</span>
+                                <h5>Jeff Mungai-WEb desighner</h5>
+                            </div>
+                            <div class="ibox-content">
+                                <div class="team-members">
+                                     <img class="img-circle" src="<?= Yii::$app->getUrlManager()->getBaseUrl()."/as/image/6.jpg"?>" alt="image description" width="40" height="40">
+                                   <!-- <a href="#"><img alt="member" class="img-circle" src="img/a2.jpg"></a>
+                                    <a href="#"><img alt="member" class="img-circle" src="img/a6.jpg"></a>
+                                    <a href="#"><img alt="member" class="img-circle" src="img/a3.jpg"></a>
+                                    <a href="#"><img alt="member" class="img-circle" src="img/a4.jpg"></a>
+                                    <a href="#"><img alt="member" class="img-circle" src="img/a7.jpg"></a>
+                                -->
+                            <!--    </div>
+                                <h4>Info about Jeff Mungai</h4>
+                                <p>
+                                    Jeff Mungai is oue web developer,he is a genious when it come to web desighning..<br> He is a graet Puncher
+                                </p>
+                                <div>
+                                    <span>Status of current project:</span>
+                                    <div class="stat-percent">14%</div>
+                                    <div class="progress progress-mini">
+                                        <div style="width: 14%;" class="progress-bar"></div>
+                                    </div>
+                                </div>
+                                <div class="row  m-t-sm">
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">PROJECTS</div>
+                                        8
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">RANKING</div>
+                                        7th
+                                    </div>
+                                    <div class="col-sm-4 text-right">
+                                        <div class="font-bold">BUDGET</div>
+                                        $40,200 <i class="fa fa-level-up text-navy"></i>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="ibox"> -->
+                           <!-- <div class="ibox-title">
+                                <h5>IT-08 - Lorem ipsum Team</h5>
+                            </div>
+                            <div class="ibox-content">
+                                <div class="team-members">
+                                    <a href="#"><img alt="member" class="img-circle" src="img/a1.jpg"></a>
+                                    <a href="#"><img alt="member" class="img-circle" src="img/a8.jpg"></a>
+                                    <a href="#"><img alt="member" class="img-circle" src="img/a3.jpg"></a>
+                                    <a href="#"><img alt="member" class="img-circle" src="img/a7.jpg"></a>
+                                </div>
+                                <h4>Info about Design Team</h4>
+                                <p>
+                                    Many desktop publishing packages and web page editors now use Lorem Ipsum as their.
+                                    ometimes by accident, sometimes on purpose (injected humour and the like).
+                                </p>
+                                <div>
+                                    <span>Status of current project:</span>
+                                    <div class="stat-percent">25%</div>
+                                    <div class="progress progress-mini">
+                                        <div style="width: 25%;" class="progress-bar"></div>
+                                    </div>
+                                </div>
+                                <div class="row  m-t-sm">
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">PROJECTS</div>
+                                        25
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">RANKING</div>
+                                        4th
+                                    </div>
+                                    <div class="col-sm-4 text-right">
+                                        <div class="font-bold">BUDGET</div>
+                                        $140,105 <i class="fa fa-level-up text-navy"></i>
+                                    </div>
+                                </div>
+
+                            </div> -->
+                    <!--    </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="ibox">
+                            <div class="ibox-title">
+
+                                <h5>Android Master-Gachoki</h5>
+                            </div>
+                            <div class="ibox-con">
+                                <div class="team-members">
+                                  <img class="img-circle" src="<?= Yii::$app->getUrlManager()->getBaseUrl()."/as/image/e.jpg"?>" alt="image description" width="40" height="40">
+                                   <!-- <a href="#"><img alt="member" class="img-circle" src="img/a4.jpg"></a>
+                                    <a href="#"><img alt="member" class="img-circle" src="img/a7.jpg"></a>
+                                    <a href="#"><img alt="member" class="img-circle" src="img/a2.jpg"></a>
+                                -->
+                           <!--     </div>
+                                <h4>Info about Gachoki</h4>
+                                <p>
+                                    Very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum
+                                    dolor sit amet..", comes from a line in section 1.10.32.
+                                </p>
+                                <div>
+                                    <span>Status of current project:</span>
+                                    <div class="stat-percent">82%</div>
+                                    <div class="progress progress-mini">
+                                        <div style="width: 82%;" class="progress-bar"></div>
+                                    </div>
+                                </div>
+                                <div class="row  m-t-sm">
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">PROJECTS</div>
+                                        68
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">RANKING</div>
+                                        2th
+                                    </div>
+                                    <div class="col-sm-4 text-right">
+                                        <div class="font-bold">BUDGET</div>
+                                        $701,400 <i class="fa fa-level-up text-navy"></i>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="ibox">
+                            <div class="ibox-title">
+                                <h5>Android Master-Gachoki</h5>
+                            </div>
+                            <div class="ibox-content">
+                                <div class="team-members">
+                                     <img class="img-circle" src="<?= Yii::$app->getUrlManager()->getBaseUrl()."/as/image/e.jpg"?>" alt="image description" width="40" height="40">
+                                   <!-- <a href="#"><img alt="member" class="img-circle" src="img/a2.jpg"></a>
+                                    <a href="#"><img alt="member" class="img-circle" src="img/a4.jpg"></a>
+                                    <a href="#"><img alt="member" class="img-circle" src="img/a7.jpg"></a>
+                                    <a href="#"><img alt="member" class="img-circle" src="img/a8.jpg"></a>
+                                -->
+                            <!--    </div>
+                                <h4>Info about Design Team</h4>
+                                <p>
+                                    Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also
+                                    reproduced in their exact original form, accompanied by English versions from the
+                                    1914 translation by H. Rackham.
+                                </p>
+                                <div>
+                                    <span>Status of current project:</span>
+                                    <div class="stat-percent">26%</div>
+                                    <div class="progress progress-mini">
+                                        <div style="width: 26%;" class="progress-bar"></div>
+                                    </div>
+                                </div>
+                                <div class="row  m-t-sm">
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">PROJECTS</div>
+                                        16
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">RANKING</div>
+                                        8th
+                                    </div>
+                                    <div class="col-sm-4 text-right">
+                                        <div class="font-bold">BUDGET</div>
+                                        $160,100 <i class="fa fa-level-up text-navy"></i>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="ibox">
+                           <!-- <div class="ibox-title">
+                                <h5>IT-09 - Modern Team</h5>
+                            </div>
+                            <div class="ibox-content">
+                                <div class="team-members">
+                                    <a href="#"><img alt="member" class="img-circle" src="img/a2.jpg"></a>
+                                    <a href="#"><img alt="member" class="img-circle" src="img/a3.jpg"></a>
+                                    <a href="#"><img alt="member" class="img-circle" src="img/a8.jpg"></a>
+                                    <a href="#"><img alt="member" class="img-circle" src="img/a6.jpg"></a>
+                                    <a href="#"><img alt="member" class="img-circle" src="img/a7.jpg"></a>
+                                </div>
+                                <h4>Info about Design Team</h4>
+                                <p>
+                                    Words which don't look even slightly believable. If you are going to use a passage
+                                    of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in.
+                                </p>
+                                <div>
+                                    <span>Status of current project:</span>
+                                    <div class="stat-percent">18%</div>
+                                    <div class="progress progress-mini">
+                                        <div style="width: 18%;" class="progress-bar"></div>
+                                    </div>
+                                </div>
+                                <div class="row  m-t-sm">
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">PROJECTS</div>
+                                        53
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="font-bold">RANKING</div>
+                                        9th
+                                    </div>
+                                    <div class="col-sm-4 text-right">
+                                        <div class="font-bold">BUDGET</div>
+                                        $60,140 <i class="fa fa-level-up text-navy"></i>
+                                    </div>
+                                </div>
+
+                            </div> -->
+                      <!--  </div>
+                    </div>
+                </div> -->
+
+
+         
+
+
+    <!-- Mainly scripts -->
+    <script src="js/jquery-2.1.1.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/plugins/metisMenu/jquery.metisMenu.js"></script>
+    <script src="js/plugins/slimscroll/jquery.slimscroll.min.js"></script>
+
+    <!-- Custom and plugin javascript -->
+    <script src="js/inspinia.js"></script>
+    <script src="js/plugins/pace/pace.min.js"></script>
+
+
+
+
+
+
+
 
   <!--  <div id="wrapper">
 
@@ -424,438 +1339,69 @@ $this->params['breadcrumbs'][] = $this->title;
 
                 </nav>
             </div> -->
-            <div class="row wrapper border-bottom white-bg page-heading">
-                <div class="col-lg-10">
-                    <h2>Teams board</h2>
-                    <ol class="breadcrumb">
-                        <li>
-                            <a href="index.html">Home</a>
-                        </li>
-                        <li>
-                            <a>App views</a>
-                        </li>
-                        <li class="active">
-                            <strong>Teams board</strong>
-                        </li>
-                    </ol>
-                </div>
-                <div class="col-lg-2">
+            <style>
 
-                </div>
-            </div>
+ #team {
+    background: #eee !important;
+}               
+.panel-body:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+section1 {
 
-            <div class="wrapper wrapper-content animated fadeInRight">
-                <div class="row">
-                    <div class="col-lg-4">
-                        <div class="ibox">
-                            <div class="ibox-title">
-                                <span class="label label-primary pull-right">NEW</span>
-                                <h5>IT-01 - Design Team</h5>
-                            </div>
-                            <div class="ibox-content">
-                                <div class="team-members">
-                                  <!--  <div class="chip">
-                                       <a href="#"><img alt="member"  alt="image description"   src="/eras/as/image/12.png"></a>
-                                    </div>
-                                        
-                                       <img src="/eras/as/image/12.png" class="img-circle" alt=" image description " style="width:60px;height:60px;"> -->
-                                        
-                                         <img src="<?= Yii::$app->getUrlManager()->getBaseUrl()."/eras/as/image/12.png"?>" alt="image description" style="width:60px;height:60px;">
-    
-                                  <a href="#"><img alt="member" class="img-circle" src="img/a3.jpg"></a>
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a5.jpg"></a>
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a6.jpg"></a>
-                                </div>
-                                <h4>Info about Design Team</h4>
-                                <p>
-                                    It is a long established fact that a reader will be distracted by the readable
-                                    content
-                                    of a page when looking at its layout. The point of using Lorem Ipsum is that it has.
-                                </p>
-                                <div>
-                                    <span>Status of current project:</span>
-                                    <div class="stat-percent">48%</div>
-                                    <div class="progress progress-mini">
-                                        <div style="width: 48%;" class="progress-bar"></div>
-                                    </div>
-                                </div>
-                                <div class="row  m-t-sm">
-                                    <div class="col-sm-4">
-                                        <div class="font-bold">PROJECTS</div>
-                                        12
-                                    </div>
-                                    <div class="col-sm-4">
-                                        <div class="font-bold">RANKING</div>
-                                        4th
-                                    </div>
-                                    <div class="col-sm-4 text-right">
-                                        <div class="font-bold">BUDGET</div>
-                                        $200,913 <i class="fa fa-level-up text-navy"></i>
-                                    </div>
-                                </div>
+  
+  backgroundcolor: red;
+  
+}
+p2{
+  color: white;
+}
 
-                            </div>
-                        </div>
-                        <div class="ibox">
-                            <div class="ibox-title">
-                                <h5>IT-04 - Marketing Team</h5>
-                            </div>
-                            <div class="ibox-content">
-                                <div class="team-members">
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a4.jpg"></a>
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a5.jpg"></a>
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a6.jpg"></a>
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a8.jpg"></a>
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a7.jpg"></a>
-                                </div>
-                                <h4>Info about Design Team</h4>
-                                <p>
-                                    It was popularised in the 1960s with the release of Letraset sheets containing Lorem
-                                    Ipsum passages, and more recently with desktop publishing software like Aldus
-                                    PageMaker.
-                                </p>
-                                <div>
-                                    <span>Status of current project:</span>
-                                    <div class="stat-percent">32%</div>
-                                    <div class="progress progress-mini">
-                                        <div style="width: 32%;" class="progress-bar"></div>
-                                    </div>
-                                </div>
-                                <div class="row  m-t-sm">
-                                    <div class="col-sm-4">
-                                        <div class="font-bold">PROJECTS</div>
-                                        24
-                                    </div>
-                                    <div class="col-sm-4">
-                                        <div class="font-bold">RANKING</div>
-                                        3th
-                                    </div>
-                                    <div class="col-sm-4 text-right">
-                                        <div class="font-bold">BUDGET</div>
-                                        $190,325 <i class="fa fa-level-up text-navy"></i>
-                                    </div>
-                                </div>
+.flip-card {
+  background-color: transparent;
+  width: 300px;
+  height: 300px;
+  perspective: 1000px;
+}
 
-                            </div>
-                        </div>
-                        <div class="ibox">
-                            <div class="ibox-title">
-                                <h5>IT-07 - Finance Team</h5>
-                            </div>
-                            <div class="ibox-content">
-                                <div class="team-members">
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a4.jpg"></a>
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a8.jpg"></a>
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a7.jpg"></a>
-                                </div>
-                                <h4>Info about Design Team</h4>
-                                <p>
-                                    Uncover many web sites still in their infancy. Various versions have evolved over
-                                    the years, sometimes by accident, sometimes on purpose (injected humour and the
-                                    like).
-                                </p>
-                                <div>
-                                    <span>Status of current project:</span>
-                                    <div class="stat-percent">73%</div>
-                                    <div class="progress progress-mini">
-                                        <div style="width: 73%;" class="progress-bar"></div>
-                                    </div>
-                                </div>
-                                <div class="row  m-t-sm">
-                                    <div class="col-sm-4">
-                                        <div class="font-bold">PROJECTS</div>
-                                        11
-                                    </div>
-                                    <div class="col-sm-4">
-                                        <div class="font-bold">RANKING</div>
-                                        6th
-                                    </div>
-                                    <div class="col-sm-4 text-right">
-                                        <div class="font-bold">BUDGET</div>
-                                        $560,105 <i class="fa fa-level-up text-navy"></i>
-                                    </div>
-                                </div>
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
 
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="ibox">
-                            <div class="ibox-title">
-                                <h5>IT-02 - Developers Team</h5>
-                            </div>
-                            <div class="ibox-content">
-                                <div class="team-members">
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a8.jpg"></a>
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a4.jpg"></a>
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a1.jpg"></a>
-                                </div>
-                                <h4>Info about Design Team</h4>
-                                <p>
-                                    Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always
-                                    free from repetition, injected humour, or non-characteristic words etc.
-                                </p>
-                                <div>
-                                    <span>Status of current project:</span>
-                                    <div class="stat-percent">61%</div>
-                                    <div class="progress progress-mini">
-                                        <div style="width: 61%;" class="progress-bar"></div>
-                                    </div>
-                                </div>
-                                <div class="row  m-t-sm">
-                                    <div class="col-sm-4">
-                                        <div class="font-bold">PROJECTS</div>
-                                        43
-                                    </div>
-                                    <div class="col-sm-4">
-                                        <div class="font-bold">RANKING</div>
-                                        1th
-                                    </div>
-                                    <div class="col-sm-4 text-right">
-                                        <div class="font-bold">BUDGET</div>
-                                        $705,913 <i class="fa fa-level-up text-navy"></i>
-                                    </div>
-                                </div>
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
 
-                            </div>
-                        </div>
-                        <div class="ibox">
-                            <div class="ibox-title">
-                                <span class="label label-warning pull-right">DEADLINE</span>
-                                <h5>IT-05 - Administration Team</h5>
-                            </div>
-                            <div class="ibox-content">
-                                <div class="team-members">
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a1.jpg"></a>
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a2.jpg"></a>
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a6.jpg"></a>
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a3.jpg"></a>
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a4.jpg"></a>
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a7.jpg"></a>
-                                </div>
-                                <h4>Info about Design Team</h4>
-                                <p>
-                                    Internet tend to repeat predefined chunks as necessary, making this the first true
-                                    generator on the Internet. It uses a dictionary of over 200 Latin.
-                                </p>
-                                <div>
-                                    <span>Status of current project:</span>
-                                    <div class="stat-percent">14%</div>
-                                    <div class="progress progress-mini">
-                                        <div style="width: 14%;" class="progress-bar"></div>
-                                    </div>
-                                </div>
-                                <div class="row  m-t-sm">
-                                    <div class="col-sm-4">
-                                        <div class="font-bold">PROJECTS</div>
-                                        8
-                                    </div>
-                                    <div class="col-sm-4">
-                                        <div class="font-bold">RANKING</div>
-                                        7th
-                                    </div>
-                                    <div class="col-sm-4 text-right">
-                                        <div class="font-bold">BUDGET</div>
-                                        $40,200 <i class="fa fa-level-up text-navy"></i>
-                                    </div>
-                                </div>
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
 
-                            </div>
-                        </div>
-                        <div class="ibox">
-                            <div class="ibox-title">
-                                <h5>IT-08 - Lorem ipsum Team</h5>
-                            </div>
-                            <div class="ibox-content">
-                                <div class="team-members">
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a1.jpg"></a>
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a8.jpg"></a>
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a3.jpg"></a>
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a7.jpg"></a>
-                                </div>
-                                <h4>Info about Design Team</h4>
-                                <p>
-                                    Many desktop publishing packages and web page editors now use Lorem Ipsum as their.
-                                    ometimes by accident, sometimes on purpose (injected humour and the like).
-                                </p>
-                                <div>
-                                    <span>Status of current project:</span>
-                                    <div class="stat-percent">25%</div>
-                                    <div class="progress progress-mini">
-                                        <div style="width: 25%;" class="progress-bar"></div>
-                                    </div>
-                                </div>
-                                <div class="row  m-t-sm">
-                                    <div class="col-sm-4">
-                                        <div class="font-bold">PROJECTS</div>
-                                        25
-                                    </div>
-                                    <div class="col-sm-4">
-                                        <div class="font-bold">RANKING</div>
-                                        4th
-                                    </div>
-                                    <div class="col-sm-4 text-right">
-                                        <div class="font-bold">BUDGET</div>
-                                        $140,105 <i class="fa fa-level-up text-navy"></i>
-                                    </div>
-                                </div>
+.flip-card-front {
+  background-color: #bbb;
+  color: black;
+}
 
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="ibox">
-                            <div class="ibox-title">
-
-                                <h5>IT-02 - Graphic Team</h5>
-                            </div>
-                            <div class="ibox-content">
-                                <div class="team-members">
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a3.jpg"></a>
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a4.jpg"></a>
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a7.jpg"></a>
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a2.jpg"></a>
-                                </div>
-                                <h4>Info about Design Team</h4>
-                                <p>
-                                    Very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum
-                                    dolor sit amet..", comes from a line in section 1.10.32.
-                                </p>
-                                <div>
-                                    <span>Status of current project:</span>
-                                    <div class="stat-percent">82%</div>
-                                    <div class="progress progress-mini">
-                                        <div style="width: 82%;" class="progress-bar"></div>
-                                    </div>
-                                </div>
-                                <div class="row  m-t-sm">
-                                    <div class="col-sm-4">
-                                        <div class="font-bold">PROJECTS</div>
-                                        68
-                                    </div>
-                                    <div class="col-sm-4">
-                                        <div class="font-bold">RANKING</div>
-                                        2th
-                                    </div>
-                                    <div class="col-sm-4 text-right">
-                                        <div class="font-bold">BUDGET</div>
-                                        $701,400 <i class="fa fa-level-up text-navy"></i>
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                        <div class="ibox">
-                            <div class="ibox-title">
-                                <h5>IT-06 - Standard Team</h5>
-                            </div>
-                            <div class="ibox-content">
-                                <div class="team-members">
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a1.jpg"></a>
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a2.jpg"></a>
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a4.jpg"></a>
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a7.jpg"></a>
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a8.jpg"></a>
-                                </div>
-                                <h4>Info about Design Team</h4>
-                                <p>
-                                    Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also
-                                    reproduced in their exact original form, accompanied by English versions from the
-                                    1914 translation by H. Rackham.
-                                </p>
-                                <div>
-                                    <span>Status of current project:</span>
-                                    <div class="stat-percent">26%</div>
-                                    <div class="progress progress-mini">
-                                        <div style="width: 26%;" class="progress-bar"></div>
-                                    </div>
-                                </div>
-                                <div class="row  m-t-sm">
-                                    <div class="col-sm-4">
-                                        <div class="font-bold">PROJECTS</div>
-                                        16
-                                    </div>
-                                    <div class="col-sm-4">
-                                        <div class="font-bold">RANKING</div>
-                                        8th
-                                    </div>
-                                    <div class="col-sm-4 text-right">
-                                        <div class="font-bold">BUDGET</div>
-                                        $160,100 <i class="fa fa-level-up text-navy"></i>
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                        <div class="ibox">
-                            <div class="ibox-title">
-                                <h5>IT-09 - Modern Team</h5>
-                            </div>
-                            <div class="ibox-content">
-                                <div class="team-members">
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a2.jpg"></a>
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a3.jpg"></a>
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a8.jpg"></a>
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a6.jpg"></a>
-                                    <a href="#"><img alt="member" class="img-circle" src="img/a7.jpg"></a>
-                                </div>
-                                <h4>Info about Design Team</h4>
-                                <p>
-                                    Words which don't look even slightly believable. If you are going to use a passage
-                                    of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in.
-                                </p>
-                                <div>
-                                    <span>Status of current project:</span>
-                                    <div class="stat-percent">18%</div>
-                                    <div class="progress progress-mini">
-                                        <div style="width: 18%;" class="progress-bar"></div>
-                                    </div>
-                                </div>
-                                <div class="row  m-t-sm">
-                                    <div class="col-sm-4">
-                                        <div class="font-bold">PROJECTS</div>
-                                        53
-                                    </div>
-                                    <div class="col-sm-4">
-                                        <div class="font-bold">RANKING</div>
-                                        9th
-                                    </div>
-                                    <div class="col-sm-4 text-right">
-                                        <div class="font-bold">BUDGET</div>
-                                        $60,140 <i class="fa fa-level-up text-navy"></i>
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
+.flip-card-back {
+  background-color: #2980b9;
+  color: white;
+  transform: rotateY(180deg);
+}
 
 
-            </div>
-            <div class="footer">
-                <div class="pull-right">
-                    10GB of <strong>250GB</strong> Free.
-                </div>
-                <div>
-                    <strong>Copyright</strong> Example Company &copy; 2014-2017
-                </div>
-            </div>
-
-        </div>
-    </div>
-
-
-
-    <!-- Mainly scripts -->
-    <script src="js/jquery-2.1.1.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/plugins/metisMenu/jquery.metisMenu.js"></script>
-    <script src="js/plugins/slimscroll/jquery.slimscroll.min.js"></script>
-
-    <!-- Custom and plugin javascript -->
-    <script src="js/inspinia.js"></script>
-    <script src="js/plugins/pace/pace.min.js"></script>
+</style>
+           
 
 </body>
 

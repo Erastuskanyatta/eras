@@ -74,7 +74,11 @@ AppAsset::register($this);
 
    <?=$content ?>
 
+   
+   <!--
+
    <!-- footer -->
+   <!--
    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
    <div class="footer w3ls">
 	<div class="container">
@@ -87,7 +91,7 @@ AppAsset::register($this);
 </div>
 <div class="copyrights">
 	<p>&copy; 2017 Classic CV. All rights reserved | Design by <a href="index.php">Sudo coders</a></p>
-</div>
+</div> -->
 <!-- //footer -->
 
 

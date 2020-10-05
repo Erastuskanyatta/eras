@@ -37,6 +37,7 @@ class TeamController extends Controller
     {
         $searchModel = new teamSearch();
         $dataProvider = $searchModel->search(Yii::$app->request->queryParams);
+         $this->layout='mainportal';
 
         return $this->render('index', [
             'searchModel' => $searchModel,
@@ -69,7 +70,7 @@ class TeamController extends Controller
         if ($model->load(Yii::$app->request->post()) && $model->save()) {
             return $this->redirect(['view', 'id' => $model->id]);
         }
-
+         $this->layout='mainportal';
         return $this->render('create', [
             'model' => $model,
         ]);

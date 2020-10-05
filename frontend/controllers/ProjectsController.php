@@ -37,7 +37,7 @@ class ProjectsController extends Controller
     {
         $searchModel = new projectsSearch();
         $dataProvider = $searchModel->search(Yii::$app->request->queryParams);
-
+        $this->layout='mainportal';
         return $this->render('index', [
             'searchModel' => $searchModel,
             'dataProvider' => $dataProvider,

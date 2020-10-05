@@ -25,18 +25,92 @@
         
          </div>
         <div class="col-md-7 banner-right">
-        <h3 class="wl3-title">About Me</h3>
-        <p>I am Erastus muriithi.A great Puncher <br>
+        <h3 class="wl3-title" style="color:blue ">About Me</h3>
+       <strong> <p style>I am Erastus muriithi.A great Puncher <br>
            I believe that codding is the most enjoable thing that a programer can do in this world <br>
            I like travelling and also learning new things everyday. <br>
            Besides that I am also alittle good in football.haha
-        </p> 
+        </p> </strong>
         </p> 
       </div>
     </div>
   </div>
 
+</div> <br> <br>
+
+<!-- projets -->
+<div class="section projects" id="projects">
+  <div class="container">
+    <div class="row">
+      <div class-="col-md-12 col-md-offset-4">
+        <div class="panel-default">
+          <div class="panel-heading" style="color:blue">
+           <strong> <u> <h3 class="panel-title" style="text-align: center" >Projects</h3> </u>
+            <p style="text-align: center;" >Here are my complete and pending projects.. <br>
+            Some I have done them alone while others we have done them with my team  </p> </strong>
+          </div>
+        </div>
+        <div class="col-md-12 ">
+        <div class="panel-default">
+         <div class="table responsive">
+           <table class="table">
+             <thead> 
+              <tr>
+               <th>Id</th>
+               <th>Projects</th>
+               <th>Task</th>
+               <th>Date</th>
+              <th>States</th> 
+               <th>Action</th>
+              </tr>
+             </thead>
+              <tbody>
+              <tr>
+               <td>1</td>
+               <td>Sudo coders</td>
+               <td>Making a portifolio</td>
+               <td>22/09/2020</td>
+               <td>Done</td>
+               <td>Edit</td>
+               </tr>
+               <tr>
+               <td>2</td>
+               <td>Safims</td>
+               <td>Coffee projects</td>
+               <td>2/11/2020</td>
+               <td>Half complete</td>
+               <td>Edit</td>
+               </tr>
+               <tr>
+               <td>3</td>
+               <td>Sahihi</td>
+               <td>Bingwa app</td>
+               <td>12/12/2020</td>
+               <td>Complete</td>
+               <td>Edit</td>
+               </tr>
+               <tr>
+               <td>4</td>
+               <td>Plant Signal</td>
+               <td>Plant Tech improvement</td>
+               <td>22/09/2020</td>
+               <td>Done</td>
+               <td>Edit</td>
+               </tr>
+             
+              </tbody>
+           </table>
+         </div>
+        </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
+
+
+
+<!--projects-->
 
 
 

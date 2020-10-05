@@ -23,20 +23,22 @@ PortalAsset::register($this);
     <title><?= Html::encode($this->title) ?></title>
     <?php $this->head() ?>
 </head>
-<body class="nav-md">
+<body class="fixed-navbar" >
 <?php $this->beginBody() ?>
 <div id="wrapper">
         <nav class="navbar-default navbar-static-side" role="navigation">
             <div class="sidebar-collapse">
-                <ul class="nav metismenu" id="side-menu">
-                    <li class="nav-header">
+                <ul class="nav metismenu" id="side-menu" >
+                    <li class="nav-header" >
                         <div class="dropdown profile-element"> <span>
-                        <img src="img/8.png" alt="">
-                            <img alt="image" class="img-circle" src="image/8.png" >
+   
+                        <img class="img-circle" src="<?= Yii::$app->getUrlManager()->getBaseUrl()."/as/image/12.png"?>" alt="image description" width="40" height="40">        
+                            
                              </span>
                             <a data-toggle="dropdown" class="dropdown-toggle" href="#">
+                            
                             <span class="clear"> <span class="block m-t-xs"> <strong class="font-bold">Erastus Muriithi</strong>
-                             </span> <span class="text-muted text-xs block">Art Director <b class="caret"></b></span> </span> </a>
+                             </span> <span class="text-muted text-xs block">Admin Boss <b class="caret"></b></span> </span> </a>
                             <ul class="dropdown-menu animated fadeInRight m-t-xs">
                                 <li><a href="profile.html">Profile</a></li>
                                 <li><a href="contacts.html">Contacts</a></li>
@@ -68,6 +70,16 @@ PortalAsset::register($this);
                             <li><a style="padding-right: 20px"  href="<?= Yii::$app->urlManager->createUrl(['projects/index'])?>">Manage Project</a> </li> 
                         </ul>
                       </li>
+
+                      <li class="active">
+                      <a href="index.html"><i class="fa-pied-piper"></i> <span class="nav-label">Gallery</span> <span class="fa arrow"></span></a>
+                        <ul class="nav nav-second-level">
+                           <li clas="active" style: color:blue; >Project 1</li>
+                             <li><a style="padding-right: 20px"  href="<?= Yii::$app->urlManager->createUrl(['gallery/create'])?>">Add  Picture</a></li>
+                            <li><a style="padding-right: 20px"  href="<?= Yii::$app->urlManager->createUrl(['gallery/index'])?>">Manage Pictures</a> </li> 
+                        </ul>
+                      </li>
+
 
 
 
@@ -401,7 +413,112 @@ PortalAsset::register($this);
         </nav>
         </div>
 
+
+
+
+
+        
+
 <?= $content ?>
+<!--
+<link rel="stylesheet" href="https://use.fontawesome-free-5.14.0-web/css/all.css">
+
+<footer class="copyright">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3">
+        <div class="w3l-title">
+       <h3  class="panel-title" >About Me</h3>
+        </div>
+        <div class="panel-body">
+         <p>Get to know me</p> <br>
+         <div class="social-icons">
+         <i clas="fa-linkedin">U have a question for me?</i> <br>
+         <a href="<?= Yii::$app->urlManager->createUrl(['site/contact'])?>">Contact</a> <br>
+         <i clas="fa-linkedin">My address</i> <br>
+         <p>PO.BOX 292 NYERI <br> PO.BOX 345-10100 NYERI</p>
+         </div>
+         </div>  
+        </div>
+       <div class="col-md-3"> 
+       <h3  class="panel-title" >My direct link to the pages</h3>
+
+       <li class="active"><a href="#home" class="scroll-link">Home</a></li> 
+       <li><a href="<?= Yii::$app->urlManager->createUrl(['site/about'])?>">About</a></li>
+           <li><a href="<?= Yii::$app->urlManager->createUrl(['skills/create'])?>">Skills</a></li>
+           <li><a href="<?= Yii::$app->urlManager->createUrl(['skills/projects'])?>">Projects</a></li>
+          <li><a href="<?= Yii::$app->urlManager->createUrl(['gallery/create'])?>">Gallery</a></li>
+          <li><a href="<?= Yii::$app->urlManager->createUrl(['site/contact'])?>">Contact</a></li>
+      </div>
+       <div class="col-md-3">
+         
+        <h3 class="panel-title">Join me today and start working together</h3> <br>
+       
+       To join me,just click sigh in and fill out very siple steps and ur all done <br>
+       <li><a href="<?= Yii::$app->urlManager->createUrl(['site/signup'])?>">Sign In</a></li>
+       </div>
+        <div class="col-md-3">
+         <h3 class=panel-title>My social meadia link</h3> <br>
+         <i class=""></i>
+         <a href="https://en-gb.facebook.com/"> <img a src="image/fb.jpg" alt="Person" width="20" height="20" > Facebook </a><br>
+         <a href="https://www.instagram.com/"><img a src="image/insta.png" alt="Person" width="20" height="20" >Instagram </a><br>
+         <a href="https://twitter.com/home?lang=en"><img a src="image/twitter.png" alt="Person" width="20" height="20" >Twitter  </a><br>
+         <a href="https://www.google.com/"><img a src="image/g.jpg" alt="Person" width="20" height="20" > Google </a><br>
+         <a href="https://web.whatsapp.com/"><img a src="image/wh.jpg" alt="Person" width="20" height="20" > Whatsapp </a><br>
+      </div> -->
+     
+    <!-- / .row --> 
+  
+  <!-- </div>
+  <div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-angle-up"></span></div>
+  <div class="col-md-12"> <span class="pull-right">Copyright 2020 | All Rights Reserved  -- Template by <a href="<?= Yii::$app->urlManager->createUrl(['site/index'])?>">Sudo coders</a></span> </div>
+    </div>
+</footer> -->
+
+<!--start styles -->
+<style>
+
+.panel-title, .panel-body, i{
+    color: white;
+}
+li{
+ style-text-aligh : none;
+}
+.pull-right{
+  color: white;
+  text-align: center;
+  
+}
+
+</style>
+
+<!-- chip-->
+<style>
+    .nav-header{
+        position: fixed;
+    }
+.chip {
+  display: inline-block;
+  padding: 0 25px;
+  height: 50px;
+  font-size: 16px;
+  line-height: 50px;
+  border-radius: 25px;
+  background-color: #f1f1f1;
+  float: left;
+}
+
+.chip img {
+  float: left;
+  margin: 0 10px 0 -25px;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+<!-- chip-->
+
+<!--end styles-->
+
 
 <?php $this->endBody() ?>
 </body>

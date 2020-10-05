@@ -81,6 +81,15 @@ class SiteController extends Controller
         $this->layout='mainportal';
         return $this->render('portalview');
     }
+
+
+
+  
+    public function actionTeam()
+    {
+        $this->layout='mainportal';
+        return $this->render('create');
+    }
     /**
      * Logs in a user.
      *
@@ -160,9 +169,9 @@ class SiteController extends Controller
      *
      * @return mixed
      */
-    public function actionGraph_charts()
+    public function actionMain_portal()
     {
-        return $this->render('graph_charts.php');
+        return $this->render('mainportal');
     }
 
 
